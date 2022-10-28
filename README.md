@@ -1,18 +1,25 @@
-My first group readme
+# 0x00. AirBnB clone - The console
 
+## 0x00.Table of contents
 
+* [0x01 Introduction](#0x01-Introduction)
+* [0x02 Environment](#0x02-Environment)
+* [0x03 Installation](#0x03-Installation)
+* [0x04 Testing](#0x04-Testing)
+* [0x05 Usage](#0x05-Usage)
+* [0x06 Authors](#0x06-Authors)
 
+## 0x01 Introduction
 
-## Description :label:
+Team project to build 
 
-HolbertonBnB is a complete web application, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
+The console is a command interpreter to manage objects abstraction between objects and how they are stored.
+The console willl perform the following tasks:
+* create a new object
+* retrive an object from a file
+* do operations on objects
+* destroy an object
 
-This team project is part of the (Alx) Holberton School Software Engineering program. </br>
-It represents the first step towards building a full web application.
-
-This first step consists of:
-- a custom command-line interface for data management,
-- and the base classes for the storage of this data.
 
 ## Authors :black_nib:
 
